@@ -72,7 +72,7 @@ Lets break it down - `npx @svgr/cli -d <OUTPUT_DIR> <INPUT_DIR>`.
 
 1. Place all svg assets into specified assets folder
 2. Run `yarn icons` or `npm run icons`
-3. Use generated Icon Components :tada:
+3. Use generated Icon Components e.g. `<Icon width={30} height={30} fill="red" />` :tada:
 
 
 
