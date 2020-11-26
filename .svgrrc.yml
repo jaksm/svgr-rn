@@ -1,7 +1,0 @@
-icon: false
-native: true
-typescript: true
-dimensions: true
-expandProps: 'end'
-ref: true
-memo: true
